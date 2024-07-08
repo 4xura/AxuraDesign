@@ -10,5 +10,5 @@ https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/8_theStrenth.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/9_theHermit.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/10_theWheelOfFortune.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/11_theJustice.jpg
-https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/12_theHanged Man.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/12_theHangedMan.jpg
 
