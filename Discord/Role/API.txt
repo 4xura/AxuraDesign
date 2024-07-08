@@ -1,1 +1,14 @@
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/0_theFool.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/1_theMagician.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/2_theHighPriestess.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/3_theEmpress.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/4_theEmperor.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/5_theHierophan.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/6_theLovers.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/7_theChariot.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/8_theStrenth.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/9_theHermit.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/10_theWheelOfFortune.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/11_theJustice.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/12_theHanged Man.jpg
 
