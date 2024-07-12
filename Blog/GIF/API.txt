@@ -1,2 +1,5 @@
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/GIF/whiteCat.gif
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/GIF/blackCat.gif
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/GIF/heart.gif
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/GIF/peek.gif
+
