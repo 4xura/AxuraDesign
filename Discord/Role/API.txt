@@ -13,4 +13,5 @@ https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/11_theJustice.jp
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/12_theHangedMan.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/wheel.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/dice.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/20_Judgement.jpg
 
