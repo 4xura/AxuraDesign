@@ -14,4 +14,10 @@ https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/12_theHangedMan.
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/wheel.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/dice.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/20_Judgement.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/15_theDevil.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/16_theTower.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/17_theStar.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/18_theMoon.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/19_theSun.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/14_temperance.jpg
 
