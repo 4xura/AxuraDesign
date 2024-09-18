@@ -1,2 +1,4 @@
-https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/0_theFool.jpg
-https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/0_theFool.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/alliance.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/arena.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/apprentice.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/chatroom.jpg
