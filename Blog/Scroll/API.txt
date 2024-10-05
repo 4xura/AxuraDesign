@@ -6,3 +6,4 @@ https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/Scroll/TheHangedMan_v2.p
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/Scroll/TheHangedMan_v3.png
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/Scroll/TheHangedMan_v4.png
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/Scroll/FallingGirl_v1.png
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Blog/Scroll/scroll_icon_hanged.png
