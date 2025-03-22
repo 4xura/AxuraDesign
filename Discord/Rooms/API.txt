@@ -4,3 +4,4 @@ https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/apprentice.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/chatroom.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Role/wardens.jpg
 https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Rooms/voice_room.jpg
+https://cdn.jsdelivr.net/gh/4xura/AxuraDesign@main/Discord/Rooms/vault_room.jpg
